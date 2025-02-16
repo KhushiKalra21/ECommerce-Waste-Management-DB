@@ -27,8 +27,5 @@ This project focuses on designing and implementing a Consumer Waste Management D
 3. Execute the SQL scripts to create tables and relationships.
 4. Integrate the database with an application or data analysis tool for further insights.
 
-## Contributing
-Contributions are welcome! If you'd like to enhance this project, feel free to fork the repository and submit a pull request.
-
 ## License  
 This project is licensed under the [Apache License 2.0.](https://github.com/KhushiKalra21/ECommerce-Waste-Management-DB/blob/main/LICENSE)  
